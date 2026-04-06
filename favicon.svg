@@ -1,0 +1,14 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="16" cy="16" r="15" fill="#0a0a1a"/>
+  <circle cx="16" cy="16" r="14" fill="none" stroke="#1a5ce8" stroke-width="2"/>
+  <circle cx="16" cy="16" r="11" fill="none" stroke="#f0f0f0" stroke-width="1.5"/>
+  <circle cx="16" cy="16" r="8" fill="none" stroke="#f03030" stroke-width="2"/>
+  <text x="12" y="16" text-anchor="middle" dominant-baseline="central"
+    font-family="Arial Black, sans-serif" font-weight="700" font-size="11"
+    stroke="#0a0a1a" stroke-width="1" stroke-linejoin="round" paint-order="stroke"
+    fill="#1a5ce8">A</text>
+  <text x="21" y="16" text-anchor="middle" dominant-baseline="central"
+    font-family="Arial Black, sans-serif" font-weight="700" font-size="11"
+    stroke="#0a0a1a" stroke-width="1" stroke-linejoin="round" paint-order="stroke"
+    fill="#f03030">P</text>
+</svg>
